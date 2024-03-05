@@ -1,0 +1,33 @@
+.navbar_logo {
+    padding: 2%;
+    margin: 2%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #2470a0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1440px;
+    padding: 0 20px;
+}
+
+.u {
+    background-color: #6892d5;
+}
+
+.form {
+    background-color: #99ddcc;
+    display: flex;
+    width: 61%;
+    height: 50px;
+    bottom: 300px;
+    left: 200px;
+}
+
